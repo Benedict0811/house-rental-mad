@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551586401891",
+    "firebase_url": "https://house-de677-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "house-de677",
+    "storage_bucket": "house-de677.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551586401891:android:aa84ef62d2508ec91cf256",
+        "android_client_info": {
+          "package_name": "com.example.landlord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk-RsAFkLTQU8nIg1w6J8uhhmgpQO-S7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551586401891-ksr41jajt5ouj4jj42bf1f964vsr9jpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
